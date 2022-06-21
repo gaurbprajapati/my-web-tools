@@ -1,5 +1,7 @@
 # my-web-tuools
 
+Website ideas https://www.awwwards.com/
+
 yuor courcs resource 
 https://www.appbrewery.co/p/web-development-course-resources/
 
