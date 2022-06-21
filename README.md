@@ -2,6 +2,8 @@
 
 Website ideas https://www.awwwards.com/
 
+Help for UI-patterns  = https://ui-patterns.com/patterns
+
 yuor courcs resource 
 https://www.appbrewery.co/p/web-development-course-resources/
 
