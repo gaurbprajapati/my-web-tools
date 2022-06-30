@@ -42,7 +42,7 @@ Grid - https://mdbootstrap.com/docs/standard/layout/grid/
 
 Built in Cards - https://bootsnipp.com/
 
-#Java Scripy
+# Java Scripy
 
 DOC to learn - https://www.javascripttutorial.net/
 
