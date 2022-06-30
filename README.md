@@ -4,9 +4,13 @@ https://sneakpeekit.com/
 
 Quick cheetsheet--
 HTML -      https://htmlcheatsheet.com/
+
 CSS -       https://cssreference.io/
+
 GIT -       https://gitsheet.wtf/
+
 OPEN API-   https://overapi.com/
+
 DEV HINTS- https://overapi.com/ ( This is a modest collection of cheat sheets for ES6, SASS, etc.)
 
 Cheatography is a collection of 5047 cheat sheets and quick references in 25 languages for everything from programming to travel!
@@ -33,6 +37,13 @@ Add Icons - https://fontawesome.com/icons , https://icons.getbootstrap.com/#inst
 
 
 # Bootstrap:-
+
 Grid - https://mdbootstrap.com/docs/standard/layout/grid/
 
 Built in Cards - https://bootsnipp.com/
+
+#Java Scripy
+
+DOC to learn - https://www.javascripttutorial.net/
+
+karel ide -  https://stanford.edu/~cpiech/karel/ide.html
