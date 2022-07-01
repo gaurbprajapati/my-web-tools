@@ -51,3 +51,5 @@ Built in Cards - https://bootsnipp.com/
 DOC to learn - https://www.javascripttutorial.net/
 
 karel ide -  https://stanford.edu/~cpiech/karel/ide.html
+
+** HTML DOM ** - https://www.w3schools.com/js/js_htmldom.asp
