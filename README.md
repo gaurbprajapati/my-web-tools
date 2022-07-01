@@ -26,6 +26,7 @@ https://sneakpeekit.com/
 Website ideas https://www.awwwards.com/ , https://dribbble.com/tags/website
 
 Help for UI-patterns  = https://ui-patterns.com/patterns
+CSS Fount = https://www.cssfontstack.com/
 
 
 
