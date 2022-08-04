@@ -58,4 +58,3 @@ karel ide -  https://stanford.edu/~cpiech/karel/ide.html
 
 # React 
 https://codesandbox.io/s/event-handling-in-react-forked-zzsor2
-https://codesandbox.io/s/react-forms-23oen?fontsize=14&file=/src/components/App.jsx
