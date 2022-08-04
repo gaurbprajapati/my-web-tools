@@ -55,3 +55,6 @@ DOC to learn - https://www.javascripttutorial.net/
 karel ide -  https://stanford.edu/~cpiech/karel/ide.html
 
 ** HTML DOM ** - https://www.w3schools.com/js/js_htmldom.asp
+
+# React 
+https://codesandbox.io/s/event-handling-in-react-forked-zzsor2
